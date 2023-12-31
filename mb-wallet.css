@@ -1,0 +1,40 @@
+#sf{
+    font-family:  Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#sf td,#sf th{
+    border: 1px solid#ddd;
+    padding: 8px;
+}
+#sf tr:nth-child(even){background-color: #f2f2f2;}
+#sf hover {
+    background-color: #ddd;
+}
+#sf th{
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+background-color: #2b65b1;
+color: white;
+}
+.bold{
+    color: #2b65b1;
+    font-size: 20px;
+}
+h1{
+    color: #194277;
+    text-align: center;
+}
+p{
+    padding-left:10px ;
+}
+img{
+    padding-left: 26%;
+    width:650px; 
+    height:600;
+    padding-right: 20%;
+}
+
+
+
